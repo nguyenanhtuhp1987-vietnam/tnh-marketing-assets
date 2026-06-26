@@ -1,0 +1,64 @@
+{
+  "_huong_dan": "Bang tra anh san pham The Nest House. Agent doc file nay de chon anh khop noi dung bai viet. Field 'file' la duong dan tinh tu sau /san-pham/ (gom ten thu muc con). Link day du = base_url + file. Khi them anh moi: copy 1 block trong 'danh_sach_anh', dien file + mo_ta + dip + khach.",
+  "version": "2.0",
+  "cap_nhat_lan_cuoi": "2026-06-26",
+  "base_url": "https://raw.githubusercontent.com/nguyenanhtuhp1987-vietnam/tnh-marketing-assets/main/san-pham/",
+  "_luu_y_nhanh": "Neu repo dung nhanh 'master' thi doi 'main' trong base_url thanh 'master'. Repo phai PUBLIC thi agent moi tai duoc link raw.",
+  "quy_uoc_gia_tri": {
+    "nhom": ["yen-chung-san", "yen-tinh-che", "qua-tang", "shopee-cover", "hau-truong", "persona-lifestyle", "concept-ai"],
+    "dip": ["thuong-ngay", "tet", "trung-thu", "khai-truong", "8-3", "20-10", "vu-lan", "sinh-nhat", "tham-benh"],
+    "khach": ["bieu-tang", "tu-dung", "me-bim", "doanh-nghiep"],
+    "tone_anh": ["sang-trong", "am-cum", "tuoi-sang", "toi-gian", "doi-thuong"]
+  },
+  "danh_sach_anh": [
+
+    {"file": "set-qua-tang/set-qua-tang-tu-quy.jpg", "ten": "Set quà tặng Tứ Quý", "nhom": "qua-tang", "dip": ["tet", "khai-truong", "sinh-nhat"], "khach": ["bieu-tang", "doanh-nghiep"], "tone_anh": "sang-trong", "mo_ta": "Set qua tang yen cao cap Tu Quy - hop bai qua bieu, doi tac, sep, dip trang trong."},
+    {"file": "set-qua-tang/set-qua-tam-giao.jpg", "ten": "Set quà Tâm Giao", "nhom": "qua-tang", "dip": ["tet", "sinh-nhat", "tham-benh"], "khach": ["bieu-tang"], "tone_anh": "sang-trong", "mo_ta": "Set qua Tam Giao - qua bieu the hien tinh cam, hop bai bieu nguoi than, ban be."},
+    {"file": "set-qua-tang/hop-1-to-yen-tinh-che.jpg", "ten": "Hộp 1 tổ yến tinh chế", "nhom": "qua-tang", "dip": ["tham-benh", "sinh-nhat"], "khach": ["bieu-tang", "tu-dung"], "tone_anh": "toi-gian", "mo_ta": "Hop don 1 to yen tinh che - qua nho gon, hop bai bieu nhe hoac dung thu."},
+
+    {"file": "shopee-covers/set-qua-tet-2026.jpg", "ten": "Set quà Tết 2026", "nhom": "shopee-cover", "dip": ["tet"], "khach": ["bieu-tang", "doanh-nghiep"], "tone_anh": "sang-trong", "mo_ta": "Anh bia set qua Tet 2026 - hop bai ban / mua vu Tet."},
+    {"file": "shopee-covers/combo-200g.jpg", "ten": "Combo 200g", "nhom": "shopee-cover", "dip": ["thuong-ngay"], "khach": ["tu-dung", "me-bim"], "tone_anh": "toi-gian", "mo_ta": "Combo yen 200g - hop bai ban combo, tiet kiem cho gia dinh."},
+    {"file": "shopee-covers/set-20-hu-yenchung.jpg", "ten": "Set 20 hũ yến chưng", "nhom": "shopee-cover", "dip": ["thuong-ngay", "tham-benh"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "toi-gian", "mo_ta": "Set 20 hu yen chung san - hop bai ban set dung dan, bieu."},
+    {"file": "shopee-covers/nhatrang-50g.jpg", "ten": "Yến Nha Trang 50g", "nhom": "shopee-cover", "dip": ["thuong-ngay"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "toi-gian", "mo_ta": "Yen Nha Trang 50g - hop bai nhan manh nguon goc Nha Trang."},
+    {"file": "shopee-covers/soi-dai-100g.jpg", "ten": "Yến sợi dài 100g", "nhom": "shopee-cover", "dip": ["thuong-ngay", "khai-truong"], "khach": ["tu-dung", "doanh-nghiep"], "tone_anh": "toi-gian", "mo_ta": "Yen soi dai 100g - hop bai noi ve chat luong, soi yen that."},
+    {"file": "shopee-covers/yen-tho-nguyen-to.jpg", "ten": "Yến thô nguyên tổ", "nhom": "shopee-cover", "dip": ["thuong-ngay"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "toi-gian", "mo_ta": "Yen tho nguyen to - hop bai nguon goc, do nguyen ban, cao cap."},
+    {"file": "shopee-covers/chan-yen-rut-long.jpg", "ten": "Chân yến rút lông", "nhom": "shopee-cover", "dip": ["thuong-ngay"], "khach": ["tu-dung"], "tone_anh": "toi-gian", "mo_ta": "Chan yen rut long - hop bai san pham chuyen sau, khach sanh yen."},
+    {"file": "shopee-covers/dong-trung-ha-thao.jpg", "ten": "Đông trùng hạ thảo", "nhom": "shopee-cover", "dip": ["thuong-ngay", "tham-benh"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "toi-gian", "mo_ta": "Dong trung ha thao - san pham bo tro, hop bai bieu / boi bo."},
+    {"file": "shopee-covers/yenchung-duong-phen.jpg", "ten": "Yến chưng đường phèn", "nhom": "shopee-cover", "dip": ["thuong-ngay"], "khach": ["tu-dung", "me-bim"], "tone_anh": "toi-gian", "mo_ta": "Yen chung duong phen - vi truyen thong, hop bai dung hang ngay."},
+    {"file": "shopee-covers/yenchung-khong-duong.jpg", "ten": "Yến chưng không đường", "nhom": "shopee-cover", "dip": ["thuong-ngay"], "khach": ["tu-dung"], "tone_anh": "toi-gian", "mo_ta": "Yen chung khong duong - hop bai an kieng (chi noi 'khong duong', khong noi chua benh)."},
+    {"file": "shopee-covers/yenchung-tam-vi.jpg", "ten": "Yến chưng tám vị", "nhom": "shopee-cover", "dip": ["thuong-ngay"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "toi-gian", "mo_ta": "Yen chung tam vi - da dang huong vi, hop bai gioi thieu vi moi."},
+    {"file": "shopee-covers/yenchung-30-kem-hop.jpg", "ten": "Yến chưng 30 kèm hộp", "nhom": "shopee-cover", "dip": ["thuong-ngay", "tham-benh"], "khach": ["bieu-tang", "tu-dung"], "tone_anh": "toi-gian", "mo_ta": "Set yen chung 30 hu kem hop - hop bai ban set co hop bieu."},
+
+    {"file": "yen-chung/yen-chung-hoang-kim-the-nest-house1.jpg", "ten": "Yến chưng Hoàng Kim (1)", "nhom": "yen-chung-san", "dip": ["thuong-ngay", "tham-benh", "sinh-nhat"], "khach": ["tu-dung", "bieu-tang", "me-bim"], "tone_anh": "am-cum", "mo_ta": "Yen chung Hoang Kim - dong yen chung san cao cap, hop bai thuong hieu / boi bo / bieu nhe."},
+    {"file": "yen-chung/yen-chung-hoang-kim-the-nest-house2.jpg", "ten": "Yến chưng Hoàng Kim (2)", "nhom": "yen-chung-san", "dip": ["thuong-ngay", "tham-benh"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "am-cum", "mo_ta": "Yen chung Hoang Kim goc chup khac - hop bai san pham, doi thumbnail."},
+    {"file": "yen-chung/yen-chung-san-6-hu1.jpg", "ten": "Yến chưng sẵn set 6 hũ", "nhom": "yen-chung-san", "dip": ["thuong-ngay", "tham-benh"], "khach": ["tu-dung", "bieu-tang", "me-bim"], "tone_anh": "am-cum", "mo_ta": "Set 6 hu yen chung san - hop bai ban set, dung dan, bieu nguoi om."},
+    {"file": "yen-chung/yen-chung-6-hu.jpg", "ten": "Yến chưng 6 hũ", "nhom": "yen-chung-san", "dip": ["thuong-ngay", "tham-benh"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "am-cum", "mo_ta": "Set 6 hu yen chung - hop bai tien loi, dung hang ngay."},
+    {"file": "yen-chung/YC-yen-chung-duong-phen-1.png", "ten": "Yến chưng đường phèn", "nhom": "yen-chung-san", "dip": ["thuong-ngay"], "khach": ["tu-dung", "me-bim"], "tone_anh": "am-cum", "mo_ta": "Yen chung duong phen vi truyen thong - hop bai doi thuong, am cung."},
+
+    {"file": "yen-tinh-che/100G-yen-tinh-che.png", "ten": "Yến tinh chế 100g", "nhom": "yen-tinh-che", "dip": ["thuong-ngay", "khai-truong"], "khach": ["tu-dung", "bieu-tang", "doanh-nghiep"], "tone_anh": "toi-gian", "mo_ta": "Yen tinh che 100g - hop bai chat luong, nguon goc, khach mua so luong."},
+    {"file": "yen-tinh-che/50G-yen-tinh-che-hop-xanh-1.jpg", "ten": "Yến tinh chế 50g hộp xanh", "nhom": "yen-tinh-che", "dip": ["thuong-ngay", "tham-benh", "sinh-nhat"], "khach": ["bieu-tang", "tu-dung"], "tone_anh": "sang-trong", "mo_ta": "Yen tinh che 50g hop xanh - hop bai qua bieu sang trong tone xanh thuong hieu."},
+    {"file": "yen-tinh-che/50G-yen-tinh-che-hop-hong-1.jpg", "ten": "Yến tinh chế 50g hộp hồng", "nhom": "yen-tinh-che", "dip": ["8-3", "20-10", "sinh-nhat"], "khach": ["bieu-tang"], "tone_anh": "sang-trong", "mo_ta": "Yen tinh che 50g hop hong - hop bai qua tang phu nu 8/3, 20/10."},
+    {"file": "yen-tinh-che/30G-yen-tinh-che-hop-xanh.jpg", "ten": "Yến tinh chế 30g hộp xanh", "nhom": "yen-tinh-che", "dip": ["tham-benh", "sinh-nhat"], "khach": ["bieu-tang", "tu-dung"], "tone_anh": "sang-trong", "mo_ta": "Yen tinh che 30g hop xanh - qua bieu nho gon, hop bai bieu nhe."},
+    {"file": "yen-tinh-che/30G-yen-tinh-che-hop-hong.png", "ten": "Yến tinh chế 30g hộp hồng", "nhom": "yen-tinh-che", "dip": ["8-3", "20-10"], "khach": ["bieu-tang"], "tone_anh": "sang-trong", "mo_ta": "Yen tinh che 30g hop hong - qua tang phu nu."},
+    {"file": "yen-tinh-che/100g-yen-tinh-che-rut-long.jpg", "ten": "Yến tinh chế rút lông 100g", "nhom": "yen-tinh-che", "dip": ["thuong-ngay"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "toi-gian", "mo_ta": "Yen tinh che rut long sach - hop bai noi do sach, ti mi, chat luong."},
+    {"file": "yen-tinh-che/yen-soi-dai-the-nest-house1.jpg", "ten": "Yến sợi dài", "nhom": "yen-tinh-che", "dip": ["thuong-ngay"], "khach": ["tu-dung", "doanh-nghiep"], "tone_anh": "toi-gian", "mo_ta": "Yen soi dai nguyen ven - hop bai chat luong, soi yen that, khach sanh."},
+
+    {"file": "nguyen-lieu-hau-truong/xuong-yen-sao-the-nest-house.jpg", "ten": "Xưởng yến sào TNH", "nhom": "hau-truong", "dip": ["thuong-ngay"], "khach": ["tu-dung", "bieu-tang", "doanh-nghiep"], "tone_anh": "doi-thuong", "mo_ta": "Anh xuong yen sao - hop bai uy tin, minh bach quy trinh, tao niem tin."},
+    {"file": "nguyen-lieu-hau-truong/nhan-vien-xuong-yen-the-nest-house.png", "ten": "Nhân viên xưởng yến", "nhom": "hau-truong", "dip": ["thuong-ngay"], "khach": ["tu-dung", "me-bim"], "tone_anh": "doi-thuong", "mo_ta": "Nhan vien lam yen - hop bai hau truong, con nguoi, su ti mi thu cong."},
+    {"file": "nguyen-lieu-hau-truong/cua-hang-the-nest-house-store.jpg", "ten": "Cửa hàng TNH", "nhom": "hau-truong", "dip": ["khai-truong", "thuong-ngay"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "doi-thuong", "mo_ta": "Cua hang The Nest House - hop bai thuong hieu, dia chi tin cay."},
+    {"file": "nguyen-lieu-hau-truong/nhan-vien-cua-hang-the-nest-house.jpg", "ten": "Nhân viên cửa hàng", "nhom": "hau-truong", "dip": ["thuong-ngay"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "doi-thuong", "mo_ta": "Nhan vien cua hang - hop bai dich vu, su than thien, tuong tac."},
+
+    {"file": "personas/buối sáng của Lan Chi.png", "ten": "Buổi sáng của Lan Chi", "nhom": "persona-lifestyle", "dip": ["thuong-ngay"], "khach": ["tu-dung", "me-bim"], "tone_anh": "doi-thuong", "mo_ta": "Persona Lan Chi buoi sang dung yen - hop bai storytelling, thoi quen, tuong tac."},
+    {"file": "personas/Lan chi tặng quà ba mẹ.png", "ten": "Lan Chi tặng quà ba mẹ", "nhom": "persona-lifestyle", "dip": ["tet", "vu-lan", "sinh-nhat"], "khach": ["bieu-tang"], "tone_anh": "am-cum", "mo_ta": "Lan Chi tang qua ba me - hop bai cam xuc, bieu cha me, long hieu thao."},
+    {"file": "personas/Lan Chi tại cửa hàng.png", "ten": "Lan Chi tại cửa hàng", "nhom": "persona-lifestyle", "dip": ["thuong-ngay"], "khach": ["tu-dung", "bieu-tang"], "tone_anh": "doi-thuong", "mo_ta": "Lan Chi tai cua hang - hop bai trai nghiem mua sam, tin cay."},
+    {"file": "personas/lan chi tỏa năng.png", "ten": "Lan Chi tỏa năng lượng", "nhom": "persona-lifestyle", "dip": ["thuong-ngay"], "khach": ["tu-dung", "me-bim"], "tone_anh": "tuoi-sang", "mo_ta": "Lan Chi nang dong, khoe khoan - hop bai loi ich nang luong, tuong tac."},
+    {"file": "personas/Tạm biệt cafe -chào tổ yến.png", "ten": "Tạm biệt cafe - chào tổ yến", "nhom": "persona-lifestyle", "dip": ["thuong-ngay"], "khach": ["tu-dung", "me-bim"], "tone_anh": "tuoi-sang", "mo_ta": "Thay cafe bang to yen - hop bai doi thoi quen lanh manh, tuong tac, hook manh."},
+
+    {"file": "ai-gemini/d2-mot-thia-moi-sang.png", "ten": "Một thìa mỗi sáng", "nhom": "concept-ai", "dip": ["thuong-ngay"], "khach": ["tu-dung", "me-bim"], "tone_anh": "tuoi-sang", "mo_ta": "Concept 'mot thia yen moi sang' - hop bai thoi quen, deu dan, tuong tac."},
+    {"file": "ai-gemini/d5-qua-suc-khoe.png", "ten": "Quà sức khỏe", "nhom": "concept-ai", "dip": ["tet", "tham-benh", "sinh-nhat"], "khach": ["bieu-tang"], "tone_anh": "sang-trong", "mo_ta": "Concept 'qua suc khoe' - hop bai bieu tang, dinh vi qua suc khoe."},
+    {"file": "ai-gemini/d6-ai-nen-dung.png", "ten": "Ai nên dùng yến", "nhom": "concept-ai", "dip": ["thuong-ngay"], "khach": ["tu-dung", "me-bim"], "tone_anh": "tuoi-sang", "mo_ta": "Concept 'ai nen dung yen' - hop bai tuong tac, giai dap, phan nhom khach."},
+    {"file": "ai-gemini/d4-duong-phen.png", "ten": "Đường phèn", "nhom": "concept-ai", "dip": ["thuong-ngay"], "khach": ["tu-dung"], "tone_anh": "am-cum", "mo_ta": "Concept duong phen - hop bai noi ve thanh phan, vi truyen thong."}
+
+  ],
+  "_ghi_chu_chua_khai_bao": "21 anh trong thu muc 'wk2-4/' (d08.jpg den d28.jpg) chua khai bao vi ten file khong cho biet noi dung. Muon agent dung thi mo tung anh va them block voi mo_ta that. Cac anh yen-chung / yen-tinh-che / yen-soi-dai con lai (cung dong, khac so thu tu) co the them tuong tu khi can them thumbnail."
+}
