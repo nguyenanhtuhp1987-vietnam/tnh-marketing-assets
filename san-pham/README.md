@@ -27,4 +27,4 @@ Nguồn ảnh **gốc, chuẩn brand** để đội AI marketing (Read) lấy t�
 - Quy trình: bỏ ảnh vào nhóm tương ứng → `push-assets.sh` → copy URL → đưa cho aitoearn (`createChannelPublishFlow` / `createMedia`).
 - ⚠️ Repo công khai: chỉ đẩy ảnh marketing được phép public; không để ảnh nhạy cảm.
 
-> Liên quan: [[../README|🛠️ Bộ công cụ tạo ảnh]] · [[../index|🎨 Brand Kit]] · agent [[brand-visual-tnh]]
+> Liên quan: [[The Nest House/01-Departments/04-CMO-thuong-mai/09-marketing/brand-kit/README|🛠️ Bộ công cụ tạo ảnh]] · [[The Nest House/01-Departments/04-CMO-thuong-mai/09-marketing/brand-kit/index|🎨 Brand Kit]] · agent [[The Nest House/01-Departments/04-CMO-thuong-mai/09-marketing/ngoai-san/agents/brand-visual-tnh|brand-visual-tnh]]
